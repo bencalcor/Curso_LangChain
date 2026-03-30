@@ -65,7 +65,7 @@ with st.sidebar:
 
     system_messages = {
         "Útil y amigable": (
-            "Eres un asistente útil y amigable llamado El Causa. "
+            "Eres un asistente útil y amigable llamado jAIme. "
             "Responde de manera clara, breve y amable."
         ),
         "Profesional y formal": (
@@ -73,7 +73,7 @@ with st.sidebar:
             "Proporciona respuestas precisas, bien estructuradas y respetuosas."
         ),
         "Casual y relajado": (
-            "Eres un asistente casual y relajado llamado El Causa. "
+            "Eres un asistente casual y relajado llamado jAIme. "
             "Habla de forma natural, cercana y amigable."
         ),
         "Experto técnico": (
@@ -81,7 +81,7 @@ with st.sidebar:
             "Da respuestas detalladas, precisas y bien explicadas."
         ),
         "Creativo y divertido": (
-            "Eres un asistente creativo y divertido llamado El Causa. "
+            "Eres un asistente creativo y divertido llamado jAIme. "
             "Usa ejemplos, comparaciones y un tono alegre."
         )
     }
